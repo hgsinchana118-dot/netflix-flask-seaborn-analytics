@@ -1,0 +1,5 @@
+Flask>=3.0
+pandas>=2.2
+seaborn>=0.13
+matplotlib>=3.9
+Werkzeug>=3.0
